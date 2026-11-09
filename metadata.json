@@ -1,0 +1,6 @@
+{
+  "name": "Naqsh Multi-Speciality Hospital, Patna",
+  "description": "Official bilingual (English/Hindi) website and appointment portal for Naqsh Multi-Speciality Hospital, Anisabad, Patna — 24x7 Emergency, ICU, Trauma, and 11 Super-Speciality Departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
